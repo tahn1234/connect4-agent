@@ -3,9 +3,12 @@
 
 # Connect 4 AI with Machine Learning
 
+# Connect 4 Agent using Negamax, Gradient Boosting, and Monte Carlo Methods
+>>>>>>> 22af424 (add readme)
+
 <!--toc:start-->
 
-- [Connect 4 AI with Machine Learning](#connect-4-ai-with-machine-learning)
+- [Connect 4 Agent using Negamax, Gradient Boosting, and Monte Carlo Methods](#connect-4-agent-using-negamax-gradient-boosting-and-monte-carlo-methods)
   - [Features](#features)
   - [Technical Overview](#technical-overview)
     - [Core Components](#core-components)
@@ -25,8 +28,6 @@
   - [Project Structure](#project-structure)
   - [Acknowledgments](#acknowledgments)
   <!--toc:end-->
-
-A sophisticated Connect 4 AI implementation combining traditional game tree search with machine learning-based position evaluation.
 
 ## Features
 

@@ -1,10 +1,5 @@
-
-# connect4-agent
-
-# Connect 4 AI with Machine Learning
-
 # Connect 4 Agent using Negamax, Gradient Boosting, and Monte Carlo Methods
->>>>>>> 22af424 (add readme)
+
 
 <!--toc:start-->
 
@@ -224,8 +219,5 @@ The AI uses a phase-based evaluation strategy:
 ## Acknowledgments
 
 - UCI Machine Learning Repository for the Connect 4 dataset
-<<<<<<< HEAD
 - [Add any other acknowledgments]
->>>>>>> db1d9ed (add readme)
-=======
->>>>>>> 6b65533 (add readme)
+
